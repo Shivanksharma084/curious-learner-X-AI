@@ -35,7 +35,7 @@ Further improvements would require multiple rounds of active learning as designe
 
 ## 5. Final result
 
-- **Private leaderboard rank:** 17
+- **Private leaderboard rank:** 19
 - **Test accuracy:** 72%
 
 ## 6. Dashboard evidence
