@@ -1,7 +1,7 @@
 # Data-Centric AI Approach — Intel Scene Challenge
 
 **Team:** Curious Learner
-**Final private leaderboard rank:** 17
+**Final private leaderboard rank:** 19
 **Final test accuracy:** 0.72 (72%)
 
 ## 1. Problem
